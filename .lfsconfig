@@ -1,2 +1,5 @@
 [lfs]
 url = "http://20.169.106.58:8081/artifactory/api/lfs/gitlfs-local"
+track = *.jpg
+track = *.bin
+track = *.txt
